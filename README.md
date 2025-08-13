@@ -2,7 +2,7 @@
 
 This project implements an image inpainting algorithm using flow matching techniques. The inpainting is performed by learning a vector field that maps noisy images to clean ones, and then using an ordinary differential equation (ODE) solver to sample the inpainted images.
 
-The project was completed by[Yue Su](https://github.com/Selen-Suyue)，[Ting Wang](https://github.com/aiwtw)，[Shulei Zeng](https://github.com/SLEK1226)，[Yixuan Xue](https://github.com/02-darling-ops)，[Rui Liu](https://github.com/Asuna0930111)
+The project was completed by [Yue Su](https://github.com/Selen-Suyue)，[Ting Wang](https://github.com/aiwtw)，[Shulei Zeng](https://github.com/SLEK1226)，[Yixuan Xue](https://github.com/02-darling-ops)，[Rui Liu](https://github.com/Asuna0930111)
 
 
 
